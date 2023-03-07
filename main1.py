@@ -1,0 +1,1 @@
+print("Hello", input("what is your name?").strip().title(), " nice to meet you!" )
